@@ -1,0 +1,7 @@
+name: NexusAC
+version: '0.0.1'
+main: mivi.dev.nexusAC.NexusAC
+api-version: '1.18'
+authors: [ mivi.dev ]
+description: mivi.dev
+website: exceed.wtf
